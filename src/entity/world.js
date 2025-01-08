@@ -1,5 +1,5 @@
 import { Object3D } from 'three';
-import { createRigidBodyFixed } from '../../tool/function';
+import { createRigidBodyFixed } from '../tool/function';
 import Area from '../engine/area';
 
 export default class World extends Object3D {

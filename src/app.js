@@ -3,7 +3,7 @@ import { Scene} from "three";
 import Camera from './engine/camera';
 import Light from "./engine/light";
 import Graphic from "./engine/graphic";
-import { loadEntity, loadWorld } from '../tool/loader'
+import { loadEntity, loadWorld } from './tool/loader'
 import World from "./entity/world";
 import Player from './entity/player'
 import physic from "./engine/physic";

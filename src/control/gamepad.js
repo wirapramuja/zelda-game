@@ -1,4 +1,4 @@
-import { floor, angle } from "../../tool/function";
+import { floor, angle } from "../tool/function";
 
 const ATTACK = 0;
 const JUMP = 1;

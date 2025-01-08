@@ -1,4 +1,4 @@
-import { getSrc } from '../../tool/function';
+import { getSrc } from '../tool/function';
 
 export default class Sound {
   tracks = new Map();
