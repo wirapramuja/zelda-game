@@ -5,7 +5,7 @@
     "build": "vite build --target esnext"
   },
   "devDependencies": {
-    "vite": "^4.3.9"
+    "vite": "^4.5.5"
   },
   "dependencies": {
     "@dimforge/rapier3d-compat": "^0.11.2",
